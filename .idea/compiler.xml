@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="LibaryFlow" />
+        <module name="LibraryFlow" />
       </profile>
     </annotationProcessing>
   </component>
